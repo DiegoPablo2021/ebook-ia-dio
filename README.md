@@ -18,7 +18,7 @@ Este ebook fornece uma introdução ao Databricks, uma poderosa plataforma de an
 ## Artigo
 
 Para ler o artigo completo, acesse o link abaixo:
-- [Cavaleiros dos Dados: Explorando Databricks](file:///C:/Users/diego.menezes/Downloads/Ebook-Dados.pdf)
+- [Cavaleiros dos Dados: Explorando Databricks](https://github.com/DiegoPablo2021/ebook-ia-dio/blob/main/Ebook-Dados.pdf)
 
 
 ## 💻 Tecnologias e ferramentas utilizadas no projeto
